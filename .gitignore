@@ -1,0 +1,71 @@
+# --- Data and credentials ---
+data/*
+!data/.gitkeep
+*.zip
+*.tar
+*.tar.gz
+kaggle.json
+.kaggle/
+
+# --- Model checkpoints and large artifacts ---
+*.h5
+*.keras
+*.pb
+*.tflite
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+saved_model/
+results/checkpoints/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Virtual environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs and tmp ---
+*.log
+logs/
+tmp/

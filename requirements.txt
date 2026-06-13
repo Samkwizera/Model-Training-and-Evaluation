@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Image handling
+pillow>=10.0
+opencv-python-headless>=4.8
+scikit-image>=0.22
+
+# Classical ML
+scikit-learn>=1.3
+
+# Deep learning
+tensorflow>=2.15
+
+# Dataset access
+kaggle>=1.5
+
+# Notebook tooling
+jupyter>=1.0
+ipykernel>=6.25
+ipywidgets>=8.0
+tqdm>=4.66
