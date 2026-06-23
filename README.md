@@ -69,7 +69,6 @@ jupyter notebook notebooks/cassava_disease_classification.ipynb
 ## Deliverables
 
 - **Notebook:** `notebooks/cassava_disease_classification.ipynb`
-- **Demo video:** _link added when recorded_
 
 ## License
 
