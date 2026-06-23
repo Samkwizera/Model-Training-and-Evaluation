@@ -46,7 +46,6 @@ notebooks/   Main Colab/Jupyter notebook (primary deliverable)
 data/        Dataset is downloaded here at runtime; contents are gitignored
 figures/     Plots used in the report (learning curves, confusion matrices, ROC)
 results/     Experiment log (experiments.csv) and saved metrics
-report/      Written report (PDF) and IEEE bibliography
 ```
 
 ## Running the notebook
@@ -70,7 +69,6 @@ jupyter notebook notebooks/cassava_disease_classification.ipynb
 ## Deliverables
 
 - **Notebook:** `notebooks/cassava_disease_classification.ipynb`
-- **Report:** `report/` (PDF, IEEE citations)
 - **Demo video:** _link added when recorded_
 
 ## License
